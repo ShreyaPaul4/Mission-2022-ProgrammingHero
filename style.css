@@ -5,10 +5,10 @@ h1 {
     font-size: 60px;
 }
 #mission-size{
-    text-align: center;
-    font-size: 2em;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 900;
+    text-align : center;
+    font-size : 2em;
+    font-family : 'Times New Roman', Times, serif;
+    font-weight : 900;
 }
 .size{
     text-align: left;
