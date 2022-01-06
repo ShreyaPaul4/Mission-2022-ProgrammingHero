@@ -1,0 +1,151 @@
+body {
+    font-family: font-family:'Abril Fatface', cursive;
+}
+h1 {
+    font-size: 60px;
+}
+#mission-size{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+.size{
+    text-align: left;
+    font-weight: 700;
+}
+.family-font-type {
+    font-family: font-family:'Abril Fatface', cursive;
+}
+.experience-item{
+    box-shadow: 10px grey;
+    border-left: 5px solid;
+    border-image: linear-gradient(tomato,salmon) ;
+    border-image-slice: 1;
+    margin-right: 50px;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.flexible-container {
+    display: flex;
+    margin: 100px 50px 100px 50px;
+}
+.orange-color{
+    color: rgba(238, 173, 53, 0.925);
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+}
+.half-width img {
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(241, 83, 55);
+    color: seashell;
+    padding: 10px 40px;
+    font-weight: 900;
+    border-radius: 5%
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.deam-big{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+}
+.top-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-image: inherit;
+}
+#mission-design {
+    border-left: 0 solid;
+    background-color: whitesmoke;
+    box-sizing: 10px;
+    width: 5%
+    margin-right: 40px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#vision-design {
+    border-left: 0 solid;
+    background-color: rgb(231, 231, 240);
+    margin-right: 40px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#goals-design{
+    border-left: 0 solid;
+    background-color: rgb(236, 211, 216);
+    margin-right: 40px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.design-paragraph {
+    border-left: 0 solid;
+    background-color:transparent;
+    padding: 2px;
+    margin-bottom: 20px;
+    font-family: monospace;
+    font-size: 19px;
+    font-weight: 300;
+}
+.illustration-model {
+    image-orientation: inherit;
+}
+#develop-image {
+    background-image: url("images/shapes/shape-1.png");
+    height: 450px; 
+    background-position: 2px 50px; 
+    background-repeat: no-repeat; 
+    background-size: 50%; 
+  }
+#extra-background-images {
+    background-image: url(images/shapes/shape-1.png);
+    height: 500px; 
+    background-position: 350px 252px; 
+    background-repeat: no-repeat; 
+    background-size: 40%; 
+  }
+  #recruitment-image-size {
+        border: 90px solid rgb(203, 243, 203);
+        box-shadow: 10px 10px 30px grey;
+        border-radius: 15px;
+        padding: 2em;
+        width: 400px;
+        background-image: url(images/shapes/shape-7.png);
+        height: 300px; 
+        background-position: 330px 250px; 
+        background-repeat: no-repeat; 
+        background-size: 40%;
+  }
+  #red {
+      color: tomato;
+  }
+  #white {
+      color: blanchedalmond;
+  }
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(19, 18, 18);
+    color: white;
+  }
+    #footer1{
+        font-family:cursive;
+        font-size: 35px ;
+        padding-top: 10px;
+        text-align: center;
+    }
+    #footer2 {
+        text-align: center;
+        color: rgb(80, 74, 63);
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
